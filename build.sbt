@@ -1,4 +1,4 @@
-name := "anotherTopic"
+name := "<Name of Project Folder>"
 
 version := "0.1"
 
